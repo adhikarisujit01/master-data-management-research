@@ -1,0 +1,9 @@
+source,record_id,name,email,city
+crm,C001,Ana Sharma,ana@example.test,San Francisco
+orders,O101, Ana  Sharma ,ANA@example.test,San Francisco
+support,S111,Ana Sharma,ana@example.test,
+crm,C002,Sam Lee,sam@example.test,Oakland
+orders,O102,Samuel Lee,sam@example.test,Oakland
+crm,C003,Alex Kim,alex@example.test,San Jose
+orders,O103,Alex Kim,alex2@example.test,San Jose
+support,S112,Morgan Patel,morgan@example.test,Richmond
