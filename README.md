@@ -1,6 +1,6 @@
 # Master Data Management: Business Case and Roadmap for MDM Architecture
 
-**Sujit Adhikari** · Academic research-style case study · Original coursework (2021; date to be confirmed)
+**Sujit Adhikari** · Academic research-style case study · Original coursework (completion year not independently verified)
 
 > **Status:** An academic architecture and governance proposal, **not a peer-reviewed journal publication**. The original analysis is preserved in `paper/original-manuscript.md`; subsequent code and research extensions are identified separately.
 
