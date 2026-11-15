@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this academic case study, please cite the original author and title. Completion year not independently verified."
+type: generic
+title: "Master Data Management: Business Case and Roadmap for MDM Architecture"
+authors:
+  - family-names: Adhikari
+    given-names: Sujit
+repository-code: "https://github.com/adhikarisujit01/master-data-management-research"
+abstract: "Literature-informed academic case study proposing data governance and Data Service Federation for a hypothetical omnichannel retailer."
+keywords:
+  - master data management
+  - data governance
+  - data federation
+  - information systems
